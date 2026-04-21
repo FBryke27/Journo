@@ -1,0 +1,1 @@
+This is a repository for the two sessions using Claude and Grok to investigate and contrast biases in training by prompting them to characterise Somali and Haitian Americans[GrokQueries.pdf](https://github.com/user-attachments/files/26935140/GrokQueries.pdf)
